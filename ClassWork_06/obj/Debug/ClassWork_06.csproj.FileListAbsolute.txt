@@ -1,0 +1,8 @@
+Z:\SP\SP_ClassWorks\ClassWork_06\ClassWork_06\bin\Debug\ClassWork_06.exe.config
+Z:\SP\SP_ClassWorks\ClassWork_06\ClassWork_06\bin\Debug\ClassWork_06.exe
+Z:\SP\SP_ClassWorks\ClassWork_06\ClassWork_06\bin\Debug\ClassWork_06.pdb
+Z:\SP\SP_ClassWorks\ClassWork_06\ClassWork_06\obj\Debug\ClassWork_06.csproj.AssemblyReference.cache
+Z:\SP\SP_ClassWorks\ClassWork_06\ClassWork_06\obj\Debug\ClassWork_06.csproj.SuggestedBindingRedirects.cache
+Z:\SP\SP_ClassWorks\ClassWork_06\ClassWork_06\obj\Debug\ClassWork_06.csproj.CoreCompileInputs.cache
+Z:\SP\SP_ClassWorks\ClassWork_06\ClassWork_06\obj\Debug\ClassWork_06.exe
+Z:\SP\SP_ClassWorks\ClassWork_06\ClassWork_06\obj\Debug\ClassWork_06.pdb
