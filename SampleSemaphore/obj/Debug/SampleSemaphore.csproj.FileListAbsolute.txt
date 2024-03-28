@@ -1,0 +1,11 @@
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\bin\Debug\SampleSemaphore.exe.config
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\bin\Debug\SampleSemaphore.exe
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\bin\Debug\SampleSemaphore.pdb
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\obj\Debug\SampleSemaphore.csproj.AssemblyReference.cache
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\obj\Debug\SampleSemaphore.csproj.SuggestedBindingRedirects.cache
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\obj\Debug\SampleSemaphore.Form1.resources
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\obj\Debug\SampleSemaphore.Properties.Resources.resources
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\obj\Debug\SampleSemaphore.csproj.GenerateResource.cache
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\obj\Debug\SampleSemaphore.csproj.CoreCompileInputs.cache
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\obj\Debug\SampleSemaphore.exe
+Z:\SP\SP_ClassWorks\ClassWork_06\SampleSemaphore\obj\Debug\SampleSemaphore.pdb
